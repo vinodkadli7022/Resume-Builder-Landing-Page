@@ -1,73 +1,41 @@
-# Welcome to your Lovable project
+Resume Builder Landing Page
 
-## Project info
+This project is a static responsive landing page built from a provided Figma design. It highlights resume services, including resume writing, cover letter design, LinkedIn optimization, and interview preparation.
 
-**URL**: https://lovable.dev/projects/b228da89-3b68-4c53-974e-fe10f1da702c
+📌 Features
 
-## How can I edit this code?
+Pixel-Perfect Conversion
 
-There are several ways of editing your application.
+Design closely follows the Figma file with exact font sizes, colors, spacing, and alignment.
 
-**Use Lovable**
+Responsive Layout
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b228da89-3b68-4c53-974e-fe10f1da702c) and start prompting.
+Fully responsive across desktop, tablet, and mobile views.
 
-Changes made via Lovable will be committed automatically to this repo.
+Includes a collapsible mobile navigation menu.
 
-**Use your preferred IDE**
+Modern UI/UX
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Clean typography with strong visual hierarchy.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Call-to-action buttons: Resume Packages and Contact Us.
 
-Follow these steps:
+Testimonial / credibility highlights (rating + resumes created).
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Service Highlights Section
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Resume formatting for interviews.
 
-# Step 3: Install the necessary dependencies.
-npm i
+Cover letter styling.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+LinkedIn profile optimization.
 
-**Edit a file directly in GitHub**
+Interview strategy with HR professionals.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+🛠️ Tech Stack
 
-**Use GitHub Codespaces**
+HTML5 – Semantic structure
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+CSS3 – Styling and responsive design (Flexbox & Grid)
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/b228da89-3b68-4c53-974e-fe10f1da702c) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+JavaScript (Vanilla) – For menu toggle and interactivity (if needed)
